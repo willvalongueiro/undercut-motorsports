@@ -10,6 +10,8 @@ Um post com **1 estatística principal bem explicada** + **1 gráfico/tabela**, 
 
 ### Micro-passos
 
+> Definir estratégia para capturar e armazenar os dados da API de dados sobre a Fórmula 1.
+
 1. **Escolher recorte**
 
    * Ex.: “última corrida”, ou “temporada 2025 do piloto X”.
