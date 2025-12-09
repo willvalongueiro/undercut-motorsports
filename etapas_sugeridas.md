@@ -53,3 +53,6 @@ Um post com **1 estatística principal bem explicada** + **1 gráfico/tabela**, 
      * 1 parágrafo explicando o gráfico,
      * 1 parágrafo fechando com “o que isso mostra sobre estratégia”.
 
+6. **Converter conteúdo em visual**
+
+  * Criar cards para o Instagram no Illustrator
