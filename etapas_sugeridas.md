@@ -14,9 +14,11 @@ Um post com **1 estatística principal bem explicada** + **1 gráfico/tabela**, 
 
 1. **Escolher recorte**
 
+[EDITAR]
    * Ex.: “última corrida”, ou “temporada 2025 do piloto X”.
    * Definir em uma linha:
 
+[EDITAR]
      > “Quero mostrar como [piloto/equipe] ganhou/perdeu corrida por causa de [fator tático Y].”
 
 2. **Listar métricas relevantes**
